@@ -29,7 +29,7 @@ abstract class InstallmentAbstractRequest extends BaseAbstractRequest
      *
      * @var string
      */
-    protected $testEndpoint = 'https://mtf.onepay.vn/onecomm-pay/vpc.op';
+    protected $testEndpoint = 'https://dev.onepay.vn/paygate/vpcpay.op';
 
     /**
      * Get list of parameters to be converted.
