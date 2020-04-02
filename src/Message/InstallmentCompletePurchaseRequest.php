@@ -5,7 +5,7 @@ use Omnipay\Common\Exception\InvalidRequestException;
 /**
  * The DomesticCompletePurchaseRequest class
  */
-class InstallmentCompletePurchaseRequest extends AbstractRequest
+class InstallmentCompletePurchaseRequest extends InstallmentAbstractRequest
 {
     /**
      * Collect data for sending to gateway

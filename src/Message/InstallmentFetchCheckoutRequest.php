@@ -5,7 +5,7 @@ use Omnipay\Common\Exception\InvalidRequestException;
 /**
  * The DomesticFetchCheckoutRequest class
  */
-class InstallmentFetchCheckoutRequest extends AbstractRequest
+class InstallmentFetchCheckoutRequest extends InstallmentAbstractRequest
 {
     /**
      * API Version

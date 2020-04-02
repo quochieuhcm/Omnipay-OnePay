@@ -3,7 +3,7 @@
 /**
  * The DomesticPurchaseRequest class
  */
-class InstallmentPurchaseRequest extends AbstractRequest
+class InstallmentPurchaseRequest extends InstallmentAbstractRequest
 {
     /**
      * Collect data for sending to gateway
