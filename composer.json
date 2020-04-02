@@ -1,5 +1,5 @@
 {
-    "name": "jackiedo/omnipay-onepay",
+    "name": "quochieuhcm/omnipay-onepay",
     "description": "OnePay gateway for Omnipay payment processing library",
     "keywords": [
         "gateway",
