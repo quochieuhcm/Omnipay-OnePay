@@ -10,14 +10,14 @@ class InstallmentFetchCheckoutRequest extends InstallmentAbstractRequest
     /**
      * API Version
      */
-    const API_VERSION = '1';
+    const API_VERSION = '2';
 
     /**
      * Endpoint URL in production
      *
      * @var string
      */
-    protected $liveEndpoint = 'https://onepay.vn/onecomm-pay/Vpcdps.op';
+    protected $liveEndpoint = 'https://onepay.vn/paygate/vpcpay.op';
 
     /**
      * Endpoint URL in test mode

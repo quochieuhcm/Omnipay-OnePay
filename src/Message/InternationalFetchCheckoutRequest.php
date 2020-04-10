@@ -10,7 +10,7 @@ class InternationalFetchCheckoutRequest extends DomesticFetchCheckoutRequest
      *
      * @var string
      */
-    protected $liveEndpoint = 'https://onepay.vn/vpcpay/Vpcdps.op';
+    protected $liveEndpoint = 'https://onepay.vn/paygate/vpcpay.op';
 
     /**
      * Endpoint URL in test mode

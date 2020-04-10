@@ -22,7 +22,7 @@ abstract class InstallmentAbstractRequest extends BaseAbstractRequest
      *
      * @var string
      */
-    protected $liveEndpoint = 'https://onepay.vn/onecomm-pay/vpc.op';
+    protected $liveEndpoint = 'https://onepay.vn/paygate/vpcpay.op';
 
     /**
      * Endpoint URL in test mode
